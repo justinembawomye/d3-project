@@ -1,0 +1,19 @@
+[{
+    "user_id": 1,
+    "name": "Justine Mbawomye",
+    "email":"justine@gmail.com",
+    "date":"02.05.2019"
+  },
+  {
+    "user_id": 2,
+    "name": "Faith",
+    "email":"faith@gmail.com",
+    "date":"02.05.2019"
+  },
+  {
+    "user_id": 3,
+    "name": "alice",
+    "email":"alice@gmail.com",
+    "date":"02.05.2019"
+  }
+]
